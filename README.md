@@ -7,6 +7,20 @@
 
 ![](/Resources/1webdesign.png)
 
-#
+# 
 
 ![](/Resources/dropplot.png)
+
+#
+
+
+![](/Resources/comparisonpg.png)
+
+#
+
+![](/Resources/eachimage.png)
+
+#
+
+![](/Resources/rawdata.png)
+
